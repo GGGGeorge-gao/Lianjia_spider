@@ -18,7 +18,7 @@
 
 ### 整体框架及逻辑
 
-<img src="https://raw.githubusercontent.com/GGGGeorge-gao/Lianjia_spider/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png" alt="1583298721355" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/GGGGeorge-gao/Lianjia_spider/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png" alt="1583298721355" style="zoom:25%;" />
 
 ## 爬虫及数据可视化分析及预测
 
