@@ -1,1 +1,2 @@
-# Lianjia_spider
+# 基于Scrapy-redis实现分布式爬虫
+
