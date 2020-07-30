@@ -51,6 +51,7 @@
   - pipelines.py：连接MySQL数据库，对数据进行去重，并根据传入Item对象进行不同写入MySQL数据库
   - settings.py：连接Redis数据库，端口及地址，指定使用scrapy-redis的去重及(scrapy_redis.dupefilter.RFPDupeFilter)、不清理redis queues、指定使用scrapy_redis的scheduler
 - launch_....py：运行单个爬虫
+- launch_All.py：运行所有爬虫
 - baidu_map.py：调用百度地图API demo得到经纬度数据
 - _loc.py结尾：调用API实现经纬度获取demo，并去重和传入MySQL数据库
 
